@@ -1,8 +1,8 @@
 # Challenge 01 Dio
 Desafio feito na plataforma da Dio, para o Bootcamp Santander
 
-##Fundamentos de Swift e iOS
-** O Desafio: **
+### Fundamentos de Swift e iOS
+### O Desafio: ##
 - Criar um projeto no playground usando o Xcode
 - Definir uma constante com o valor incial "Steve"
 - Definir uma variável do tipos String opcional e com valor inicial "Jobs"
